@@ -1,0 +1,4 @@
+make code to pull in priority pass information
+make code to pull in alcohol prices
+add cover letter to job app
+add all my latex code here
