@@ -1,0 +1,82 @@
+%right-justified text is somehow not as far to the right as regular text
+%convert sections to tabular and add dates (and underlining)
+%somehow use a tool so I dont report everything so often
+
+\documentclass{article}
+\usepackage[letterpaper, margin=0.75in]{geometry}
+\usepackage{titlesec}
+%\usepackage{ulem}
+\usepackage{enumitem}
+
+%	\begin{description}[labelindent=0em,labelsep=0.25em,leftmargin=em]
+
+\pagenumbering{gobble}
+% Remove section numbering
+%\setcounter{secnumdepth}{0}
+
+% Format section headings
+\titleformat{\section}{\centering\bfseries}{}{0cm}{\addulc}
+\titleformat{\subsection}{\bfseries}{}{0cm}{\addul}
+%\titleformat{\subsubsection}{\bfseries}{}{0cm}{}
+
+\newcommand{\addulc}[1]{\underline{\MakeUppercase{#1}}}
+\newcommand{\addul}[1]{\underline{#1}}
+
+\begin{document}
+	\begin{center}
+		\textbf{Jacob McDougle}\\
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+			1 W 126th St. Apt 1H & (646) 284-5572 \\
+			New York, NY 10027 & jamcdougle@gmail.com
+		\end{tabular*}
+	\end{center}
+	\section{professional experience}
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+			\textbf{\underline{Columbia University, New York, New York}} & \textbf{\underline{Jun. 2011 to Present}}  \\
+		\end{tabular*}
+			\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+				 \textbf{Finance Manager, Radiology} & \textbf{Apr. 2022 to Present}  \\
+			\end{tabular*}			
+			$\bullet$ Develop all departmental financial plans for new ventures and clinical expansion \\
+			$\bullet$ Restructured, verified, and automated department datasets, reports, and KPIs leading to increased accuracy and decreased turnaround times for financial and productivity reporting using Excel (and VBA) as well as python \\
+			$\bullet$ Present findings to senior management \\ \\
+			\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+				\textbf{Senior Financial Analyst, Office of Management and Budget} & \textbf{Aug. 2016 to Apr. 2022}
+			\end{tabular*}
+			$\bullet$ Review and report on annual budgets, quarterly estimates, and quarterly spend for the Engineering, Arts and Sciences, Architecture, and Social Work departments totaling hundreds of millions of dollars \\
+			$\bullet$ Introduced the use of the Python programming language to OMB to automate many time-consuming tasks and enabled time series analysis not done prior (the ten-year historical dataset is two billion cells) \\
+			$\bullet$ Responsible for all daily reports within OMB. Automated all inherited reports (using VBA and Python) and wrote new ones.  Composed new quarterly reports used by senior management in trustee meetings \\ \\
+			\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+				\textbf{Senior Analyst, Facilities Department} & \textbf{Jun. 2014 to Aug. 2016} \\
+				\textbf{Analyst, Facilities Department} & \textbf{Jun. 2011 to Jun. 2014}
+			\end{tabular*}
+			$\bullet$ Authored, implemented, and managed the reporting system for all workforce hours and spend done by contractors working on the \$8 billion Manhattanville expansion of the University in line with commitments to the state government and local community to have 40\% of workforce hours and 35\% percent of spend performed by minorities, women, and local (MWL) residents and vendors, respectively \\
+			$\bullet$ Compile, verify, and produce workforce and expenditure reports for Columbia management both to be used internally and to be presented to the local community board and state (on a quarterly basis) \\
+			$\bullet$ Supervised analyst responsible for reporting systems \\ \\
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+			\textbf{\underline{Verisk Analytics, Jersey City, New Jersey}} & \textbf{\underline{Dec. 2007 to Jun. 2010}}  \\
+		\end{tabular*}
+			\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+				\textbf{Actuarial Analyst, Personal Auto Division}
+			\end{tabular*}
+			$\bullet$ Performed loss cost reviews and analysis, presented results to an advisory panel, submitted state filings \\
+			$\bullet$ Calculated and modeled premium trend factors and created filing exhibits for the entire department \\
+			$\bullet$ Automated complex premium trend calculations and exhibit creation using VBA \\ \\
+		\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+			\textbf{\underline{Bespoke Education, New York, New York}} & \textbf{\underline{Jun. 2005 to Dec. 2007}}  \\
+		\end{tabular*}
+			\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+				\textbf{Tutor and Curriculum Developer}
+			\end{tabular*}
+			$\bullet$ Tutored students in all levels of high school math and science classes, as well as for the SAT I, SAT II, and Advanced Placement exams (Calculus AB/BC, Statistics, Microeconomics, Macroeconomics) \\
+			$\bullet$ Developed mock SAT II subject tests and SAT Mathematics study materials				
+	\section{education}
+	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lr}
+		\textbf{Columbia University,} New York, New York – M.A. Statistics & \textbf{2015} \\
+		\textbf{Vassar College,} Poughkeepsie, New York – B.A. Mathematics and Economics Double-Major & \textbf{2005}
+	\end{tabular*}
+	\section{skills and designations}
+	\textbf{Computer:}  Python, VBA, Excel superuser, Tableau, SQL, Epic, Cognos, FDS, SlicerDicer, LaTeX \\ 
+	\textbf{Actuarial Exams:}  P1 (Probability), FM2 (Financial Math), 3F (Financial Economics), 3L (Life Contingencies) \\
+	\textbf{Chartered Property Casualty Underwriter}
+\end{document}
