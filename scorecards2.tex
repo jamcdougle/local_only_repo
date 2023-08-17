@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{float}
+%\geometry{left=1.0in, right=1.0in, top=0.1in, bottom=0.5in}
+%\title{Scorecards} % Sets article title
+%\author{Jake McDougle} % Sets authors name
+%\date{\today} % Sets date for date compiled
+
+\begin{document}
+%\maketitle % creates title using information in preamble (title, author, date)
+
+	\section{wRVU Credited Responsibilities} % creates a section
+		There are 23 activities for which providers receive wRVU credits (21 titled positions, Research, and Strategic).  Below are how much credit is given, whether the titled positions are Administration, Education, or Teaching. 
+		\input{output.tex}
+
+	\section{Individual Scorecards wRVUs: Credits \& Adjusted Benchmark} % creates a section
+		wRVU Target:
+		\begin{equation}\label{target}
+			\Bigl[ MGMA \ wRVU \ 65th \ \%ile \ Benchmark \Bigr]* \Bigl( 1 - [Late \ Start] - [LoA]\Bigr) 
+		\end{equation}
+		wRVUs Credits:
+		\begin{equation*}
+			\eqref{target} * \Biggl[ \sum_{lbl01}^{lbl23} \%FTE \ Credit \Biggr] 
+		\end{equation*}
+	
+	\section{Summary Sheet Calculations}
+		\begin{equation*}
+			Division \ FTEs = \sum_{providers} \Bigl(provider \ FTE \ \% \ \Big| \ provider \ wRVUs \ge 250*(\% time \ doing \ wRVU \ gen \ work) \Bigr)
+		\end{equation*} 
+\end{document}

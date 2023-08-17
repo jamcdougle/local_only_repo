@@ -1,0 +1,24 @@
+,cred,clin,edu,teach,res,strat,title
+lbl01,80%,0,0,0,0,0,Chairman
+lbl02,40%,1,0,0,0,0,Exec Vice Chair of Ops and Admin
+lbl03,40%,1,0,0,0,0,Exec Vice Chair of Clinical Ops
+lbl04,20%,1,0,0,0,0,Chief Information Officer
+lbl05,20%,1,0,0,0,0,Chief Quality Officer
+lbl06,10%,1,0,0,0,0,Vice Chair of Clinical
+lbl07,20%,0,0,0,0,0,Vice Chair of Research
+lbl08,20%,0,1,0,0,0,Vice Chair of Education
+lbl09,20%,0,0,0,0,0,Vice Chair of Faculty Development
+lbl10,20%,1,0,0,0,0,Vice Chair of Access and Pat Exp
+lbl11,20%,0,0,0,0,0,Vice Chair of Diversity
+lbl12,20%,1,0,0,0,0,Site Director
+lbl13,40%,0,1,0,0,0,Residency Program Director
+lbl14,20%,0,1,0,0,0,Associate Residency Prgm Director
+lbl15,15%,0,1,0,0,0,Director Medical Student Education
+lbl16,20%,1,0,0,0,0,Vice Chair of  Practice Development
+lbl17,5%,1,0,1,0,0,Designated Subspecialty Educator
+lbl18,20%,1,0,0,0,0,Division Chief
+lbl19,15%,0,1,0,0,0,ACGME Fellowship Director
+lbl20,10%,0,1,0,0,0,Non-ACGME Fellowship Director
+lbl21,10%,1,0,0,0,0,Section Chief
+lbl22,1%,0,0,0,1,0,Research
+lbl23,1%,0,0,0,0,1,Strategic
