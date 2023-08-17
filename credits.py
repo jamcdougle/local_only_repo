@@ -14,6 +14,7 @@ df = df[cols]
 
 #start with a vertical line
 col_format = "|"
+
 #title and cred columns should be right-justified, all others centered
 for i in df.columns:
     if i=="title" or i=="cred":
@@ -21,10 +22,13 @@ for i in df.columns:
     else:
         col_format = col_format + "c|"
 
-latex_output = df.style.to_latex(column_format = col_format,
+#notes on what I need to use if everything goes to df.style.to_latex()
+#df = df.reset_index(drop=True)
+
+latex_output = df.to_latex(column_format = col_format,
                            index=False,
                            bold_rows=True, 
-                           escape=False,
+                           escape=True,
                            caption="wRVUs for responsibilities",
                            label="tab:sample_table")
 
@@ -32,7 +36,6 @@ index = 13
 substring = '[H]'
 latex_output = latex_output[:index] + substring + latex_output[index:]
 
-latex_output = latex_output.replace('%','\%')
 
 print(latex_output)
 with open('output.tex', 'w') as file:
