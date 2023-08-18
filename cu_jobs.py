@@ -42,14 +42,6 @@ try:
     element.click()
 
 
-
-
-
-
-
-
-
-
     time.sleep(3.5)
 except NoSuchElementException:
     print("no consent agree")
