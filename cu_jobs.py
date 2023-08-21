@@ -28,13 +28,7 @@ website = website_1 + str(page)
 driver.get(website)
 time.sleep(3)           #SLEEP ADDED SO A CAPTCHA ISNT THROWN
 
-try:
-    #Pop-up Accept... Find the element using its ID
-    element = driver.find_element(By.ID, 'consent_agree')
-    element.click()
-    time.sleep(3.5)
-except NoSuchElementException:
-    print("no consent agree") #help find issue if this is it
+
 
 #tot pos to iter thru
 counts_element = driver.find_element(By.CLASS_NAME, 'table-counts') #Webelement
