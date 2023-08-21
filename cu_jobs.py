@@ -1,4 +1,3 @@
-#time.sleep=3.5 is to keep site thinking it's a bot
 import time
 import pandas as pd
 import xlsxwriter
@@ -27,7 +26,7 @@ website_1 = 'https://opportunities.columbia.edu/jobs/search?block_index=0&block_
 website = website_1 + str(page)
 
 driver.get(website)
-time.sleep(3)
+time.sleep(3)           #SLEEP ADDED SO A CAPTCHA ISNT THROWN
 
 try:
     #Pop-up Accept... Find the element using its ID
@@ -51,7 +50,6 @@ last_page_item = page_items[-2]
 Pages = int(last_page_item.text)
 print(Pages)
 time.sleep(3.5)
-
 
 all_data = []
 for rec in range(0,Records):            #go thru all records; 30 recs/page
