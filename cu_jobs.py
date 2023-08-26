@@ -26,9 +26,16 @@ website_1 = 'https://opportunities.columbia.edu/jobs/search?block_index=0&block_
 website = website_1 + str(page)
 
 driver.get(website)
-time.sleep(3)           #SLEEP ADDED SO A CAPTCHA ISNT THROWN
+time.sleep(7)           #SLEEP ADDED SO A CAPTCHA ISNT THROWN
 
-
+try:
+    # Find the element using its ID
+    element = driver.find_element(By.ID, 'consent_agree')
+    # Click the element
+    element.click()
+    time.sleep(3.5)
+except NoSuchElementException:
+    print("no consent agree")
 
 #tot pos to iter thru
 counts_element = driver.find_element(By.CLASS_NAME, 'table-counts') #Webelement
