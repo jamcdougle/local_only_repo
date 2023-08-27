@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.13)  27 AUG 2023 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.13)  27 AUG 2023 18:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume2.tex
-(./resume2.tex
+**resume.tex
+(./resume.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
 (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -75,8 +75,8 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box53
 )
-(./resume2.aux)
-\openout1 = `resume2.aux'.
+(./resume.aux)
+\openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -154,7 +154,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--73
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
-texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./resume2.aux)
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./resume.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
@@ -162,17 +162,17 @@ L3 programming layer <2023-08-11>
  ) 
 Here is how much of TeX's memory you used:
  1657 strings out of 475189
- 27003 string characters out of 5767829
+ 26991 string characters out of 5767829
  1929248 words of memory out of 5000000
  23003 multiletter control sequences out of 15000+600000
  558712 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,435b,171s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,434b,171s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
 live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dis
 t/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on resume2.pdf (1 page, 59874 bytes).
+Output written on resume.pdf (1 page, 59874 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
