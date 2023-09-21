@@ -1,0 +1,373 @@
+Login
+Analytics (On left hand side)
+Reports
+All Reports (see below)
+
+
+
+
+
+
+
+
+TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING TESTING 
+2a.	Post Test Teacher Report By Question Category - SAT Verbal, Modules 1&2E
+https://admin.digital.bespokeeducation.com/report/454496/tab/view
+Login
+Analytics (On left hand side)
+Reports
+All Reports (see below)
+14-09-2023///Start Date
+16-09-2023///End Date
+Checkbox x30 (10 schools, 3 years, 2025-2026-2027)///Institutional Users]]Charter Schools]]Uncommon Schools]]
+-///Graduation Year
+(Match the following: {2025, 2026, 2027} to {DSAT B1-451130, DSAT B2-451138, DSAT B3-451287}///Test Collection
+Submit
+Wait
+This holds all the data:
+<tbody>
+ <tr class="odd"><td>class_average</td><td>43%</td><td>7</td><td>38%</td><td>10</td><td>43%</td><td>17</td><td>39%</td><td>7</td><td>42%</td><td>10</td><td>41%</td><td>20</td><td>37%</td><td>2</td><td>39%</td><td>2</td><td>33%</td><td>-5</td><td>30%</td><td>-1</td><td>39%</td><td>-37</td><td>34%</td><td>-35</td><td>44%</td><td>-39</td><td>60%</td><td>-47</td><td>24%</td><td>-6</td><td>30%</td><td>-43</td><td>18%</td><td>30</td><td>56%</td><td>-8</td><td>37%</td><td>18</td> </tr>
+ <tr class="even"><td>NJ_10600</td><td>40%</td><td>-22</td><td>28%</td><td>-21</td><td>50%</td><td>-15</td><td>80%</td><td>30</td><td>75%</td><td>28</td><td>66%</td><td>41</td><td>91%</td><td>31</td><td>100%</td><td>51</td><td>100%</td><td>-9</td><td>0%</td><td>15</td><td>69%</td><td>-31</td><td>66%</td><td>-43</td><td>80%</td><td>-34</td><td>0%</td><td>-54</td><td>20%</td><td>-23</td><td>40%</td><td>-44</td><td>0%</td><td>-1</td><td>50%</td><td>-21</td><td>100%</td><td>9</td> </tr>
+ <tr class="odd"><td>NJ_10606</td><td>70%</td><td>-36</td><td>57%</td><td>-40</td><td>100%</td><td>-12</td><td>60%</td><td>-18</td><td>75%</td><td>-30</td><td>66%</td><td>-14</td><td>50%</td><td>-16</td><td>50%</td><td>-18</td><td>50%</td><td>-5</td><td>0%</td><td>1</td><td>46%</td><td>-45</td><td>33%</td><td>-42</td><td>60%</td><td>-50</td><td>100%</td><td>-43</td><td>60%</td><td>69</td><td>80%</td><td>-44</td><td>40%</td><td>181</td><td>100%</td><td>-32</td><td>100%</td><td>-1</td> </tr>
+ <tr class="even"><td>NJ_10611</td><td>40%</td><td>-2</td><td>42%</td><td>-21</td><td>50%</td><td>23</td><td>15%</td><td>-26</td><td>25%</td><td>-55</td><td>0%</td><td>3</td><td>16%</td><td>-22</td><td>25%</td><td>-11</td><td>0%</td><td>-31</td><td>0%</td><td>-44</td><td>15%</td><td>-9</td><td>16%</td><td>6</td><td>20%</td><td>-24</td><td>0%</td><td>-60</td><td>40%</td><td>-3</td><td>60%</td><td>-7</td><td>20%</td><td>1</td><td>0%</td><td>14</td><td>0%</td><td>-53</td> </tr>
+ <tr class="odd"><td>NJ_10631</td><td>50%</td><td>8</td><td>42%</td><td>32</td><td>0%</td><td>-52</td><td>40%</td><td>-8</td><td>25%</td><td>-26</td><td>33%</td><td>-8</td><td>50%</td><td>2</td><td>50%</td><td>6</td><td>50%</td><td>3</td><td>0%</td><td>-12</td><td>53%</td><td>-29</td><td>50%</td><td>-31</td><td>40%</td><td>-29</td><td>100%</td><td>-40</td><td>40%</td><td>-23</td><td>60%</td><td>-39</td><td>20%</td><td>-7</td><td>100%</td><td>-47</td><td>50%</td><td>32</td> </tr>
+ <tr class="even"><td>NJ_10898</td><td>80%</td><td>-25</td><td>71%</td><td>-24</td><td>100%</td><td>-18</td><td>80%</td><td>23</td><td>50%</td><td>-15</td><td>100%</td><td>16</td><td>83%</td><td>39</td><td>75%</td><td>32</td><td>100%</td><td>81</td><td>100%</td><td>29</td><td>46%</td><td>-19</td><td>33%</td><td>-25</td><td>40%</td><td>-9</td><td>100%</td><td>-39</td><td>30%</td><td>1</td><td>60%</td><td>-25</td><td>0%</td><td>28</td><td>100%</td><td>-17</td><td>50%</td><td>25</td> </tr>
+ <tr class="odd"><td>NJ_11170</td><td>30%</td><td>-26</td><td>14%</td><td>-15</td><td>50%</td><td>-57</td><td>25%</td><td>-53</td><td>25%</td><td>-56</td><td>0%</td><td>-46</td><td>33%</td><td>-53</td><td>37%</td><td>-46</td><td>50%</td><td>-69</td><td>0%</td><td>-70</td><td>46%</td><td>-51</td><td>50%</td><td>-49</td><td>20%</td><td>-55</td><td>100%</td><td>-60</td><td>10%</td><td>114</td><td>20%</td><td>-62</td><td>0%</td><td>290</td><td>50%</td><td>-51</td><td>50%</td><td>-44</td> </tr>
+ <tr class="even"><td>NJ_12388</td><td>50%</td><td>20</td><td>57%</td><td>35</td><td>50%</td><td>0</td><td>50%</td><td>30</td><td>50%</td><td>84</td><td>66%</td><td>49</td><td>41%</td><td>10</td><td>25%</td><td>20</td><td>100%</td><td>-38</td><td>100%</td><td>-67</td><td>46%</td><td>-53</td><td>50%</td><td>-56</td><td>40%</td><td>-55</td><td>100%</td><td>-66</td><td>10%</td><td>-59</td><td>20%</td><td>-59</td><td>0%</td><td>-59</td><td>50%</td><td>-27</td><td>0%</td><td>138</td> </tr>
+ <tr class="odd"><td>NJ_12390</td><td>40%</td><td>-6</td><td>42%</td><td>-8</td><td>50%</td><td>8</td><td>60%</td><td>72</td><td>50%</td><td>-18</td><td>66%</td><td>-1</td><td>58%</td><td>128</td><td>50%</td><td>107</td><td>50%</td><td>270</td><td>100%</td><td>92</td><td>38%</td><td>-51</td><td>33%</td><td>-57</td><td>60%</td><td>-55</td><td>0%</td><td>-55</td><td>0%</td><td>-72</td><td>0%</td><td>-72</td><td>0%</td><td>-73</td><td>50%</td><td>-22</td><td>100%</td><td>112</td> </tr>
+ <tr class="even"><td>NJ_13152</td><td>60%</td><td>-9</td><td>57%</td><td>-9</td><td>50%</td><td>38</td><td>50%</td><td>1</td><td>50%</td><td>-26</td><td>33%</td><td>2</td><td>50%</td><td>3</td><td>62%</td><td>7</td><td>50%</td><td>-11</td><td>0%</td><td>-32</td><td>30%</td><td>-25</td><td>16%</td><td>-20</td><td>40%</td><td>-35</td><td>100%</td><td>-41</td><td>30%</td><td>-20</td><td>20%</td><td>-12</td><td>40%</td><td>-27</td><td>100%</td><td>-12</td><td>50%</td><td>26</td> </tr>
+ <tr class="odd"><td>NJ_14963</td><td>50%</td><td>0</td><td>57%</td><td>-36</td><td>50%</td><td>352</td><td>25%</td><td>128</td><td>75%</td><td>186</td><td>0%</td><td>77</td><td>16%</td><td>69</td><td>25%</td><td>124</td><td>0%</td><td>-27</td><td>0%</td><td>-39</td><td>53%</td><td>-52</td><td>33%</td><td>-49</td><td>80%</td><td>-56</td><td>100%</td><td>-61</td><td>40%</td><td>70</td><td>40%</td><td>-54</td><td>40%</td><td>193</td><td>0%</td><td>152</td><td>0%</td><td>-67</td> </tr>
+ <tr class="even"><td>NJ_16254</td><td>40%</td><td>72</td><td>42%</td><td>118</td><td>50%</td><td>-39</td><td>30%</td><td>-31</td><td>50%</td><td>-18</td><td>33%</td><td>-45</td><td>25%</td><td>-31</td><td>12%</td><td>-39</td><td>50%</td><td>-68</td><td>0%</td><td>126</td><td>46%</td><td>-38</td><td>50%</td><td>-53</td><td>20%</td><td>-16</td><td>100%</td><td>-63</td><td>30%</td><td>287</td><td>40%</td><td>-61</td><td>20%</td><td>635</td><td>0%</td><td>-32</td><td>50%</td><td>-31</td> </tr>
+ <tr class="odd"><td>NJ_17220</td><td>40%</td><td>-24</td><td>42%</td><td>-18</td><td>100%</td><td>32</td><td>50%</td><td>10</td><td>25%</td><td>17</td><td>33%</td><td>7</td><td>58%</td><td>0</td><td>62%</td><td>4</td><td>50%</td><td>-6</td><td>0%</td><td>-21</td><td>53%</td><td>-25</td><td>50%</td><td>-25</td><td>40%</td><td>-28</td><td>100%</td><td>-27</td><td>30%</td><td>28</td><td>40%</td><td>-40</td><td>20%</td><td>97</td><td>0%</td><td>-31</td><td>100%</td><td>-25</td> </tr>
+ <tr class="even"><td>NJ_17228</td><td>50%</td><td>20</td><td>42%</td><td>23</td><td>50%</td><td>0</td><td>60%</td><td>5</td><td>100%</td><td>-20</td><td>66%</td><td>22</td><td>41%</td><td>11</td><td>50%</td><td>10</td><td>50%</td><td>-29</td><td>0%</td><td>25</td><td>53%</td><td>-31</td><td>50%</td><td>-34</td><td>60%</td><td>-32</td><td>100%</td><td>-38</td><td>20%</td><td>-33</td><td>20%</td><td>-42</td><td>20%</td><td>-23</td><td>100%</td><td>7</td><td>50%</td><td>103</td> </tr>
+ <tr class="odd"><td>NJ_17559</td><td>70%</td><td>-15</td><td>57%</td><td>-8</td><td>50%</td><td>-26</td><td>20%</td><td>-29</td><td>25%</td><td>-13</td><td>33%</td><td>73</td><td>16%</td><td>-56</td><td>12%</td><td>-62</td><td>0%</td><td>-66</td><td>0%</td><td>-73</td><td>15%</td><td>-32</td><td>16%</td><td>-43</td><td>0%</td><td>-25</td><td>100%</td><td>34</td><td>0%</td><td>43</td><td>0%</td><td>-46</td><td>0%</td><td>131</td><td>100%</td><td>-53</td><td>50%</td><td>-22</td> </tr>
+ <tr class="even"><td>NJ_17579</td><td>60%</td><td>9</td><td>42%</td><td>24</td><td>50%</td><td>-34</td><td>30%</td><td>14</td><td>50%</td><td>11</td><td>66%</td><td>-18</td><td>16%</td><td>26</td><td>12%</td><td>39</td><td>0%</td><td>16</td><td>100%</td><td>-21</td><td>23%</td><td>-41</td><td>33%</td><td>-47</td><td>20%</td><td>-38</td><td>0%</td><td>-44</td><td>30%</td><td>-35</td><td>40%</td><td>-31</td><td>20%</td><td>-39</td><td>100%</td><td>-13</td><td>0%</td><td>16</td> </tr>
+ <tr class="odd"><td>NJ_17774</td><td>70%</td><td>56</td><td>71%</td><td>-6</td><td>50%</td><td>348</td><td>70%</td><td>1</td><td>75%</td><td>-3</td><td>66%</td><td>-15</td><td>75%</td><td>-1</td><td>75%</td><td>-1</td><td>100%</td><td>-27</td><td>100%</td><td>21</td><td>76%</td><td>-40</td><td>66%</td><td>-42</td><td>80%</td><td>-42</td><td>100%</td><td>-38</td><td>30%</td><td>-6</td><td>40%</td><td>-51</td><td>20%</td><td>39</td><td>50%</td><td>-1</td><td>0%</td><td>41</td> </tr>
+ <tr class="even"><td>NJ_20360</td><td>20%</td><td>-17</td><td>14%</td><td>-13</td><td>50%</td><td>19</td><td>20%</td><td>33</td><td>0%</td><td>33</td><td>33%</td><td>70</td><td>16%</td><td>20</td><td>12%</td><td>30</td><td>50%</td><td>-56</td><td>0%</td><td>74</td><td>15%</td><td>-45</td><td>0%</td><td>-42</td><td>40%</td><td>-41</td><td>0%</td><td>-70</td><td>10%</td><td>121</td><td>20%</td><td>-51</td><td>0%</td><td>293</td><td>50%</td><td>-22</td><td>0%</td><td>148</td> </tr>
+ <tr class="odd"><td>NJ_20377</td><td>100%</td><td>-27</td><td>100%</td><td>-25</td><td>100%</td><td>26</td><td>75%</td><td>15</td><td>75%</td><td>-22</td><td>66%</td><td>53</td><td>75%</td><td>14</td><td>87%</td><td>2</td><td>100%</td><td>23</td><td>0%</td><td>33</td><td>53%</td><td>-30</td><td>33%</td><td>-26</td><td>80%</td><td>-36</td><td>100%</td><td>-55</td><td>80%</td><td>35</td><td>80%</td><td>-17</td><td>80%</td><td>86</td><td>100%</td><td>-36</td><td>50%</td><td>50</td> </tr>
+ <tr class="even"><td>NJ_21668</td><td>40%</td><td>26</td><td>28%</td><td>52</td><td>0%</td><td>-6</td><td>35%</td><td>56</td><td>50%</td><td>48</td><td>0%</td><td>138</td><td>41%</td><td>43</td><td>50%</td><td>53</td><td>0%</td><td>43</td><td>100%</td><td>2</td><td>15%</td><td>-54</td><td>33%</td><td>-49</td><td>0%</td><td>-57</td><td>0%</td><td>-58</td><td>10%</td><td>-63</td><td>0%</td><td>-67</td><td>20%</td><td>-58</td><td>100%</td><td>-41</td><td>50%</td><td>12</td> </tr>
+ <tr class="odd"><td>NJ_21674</td><td>50%</td><td>84</td><td>42%</td><td>99</td><td>0%</td><td>2</td><td>40%</td><td>-19</td><td>0%</td><td>131</td><td>33%</td><td>-69</td><td>58%</td><td>-51</td><td>50%</td><td>-41</td><td>100%</td><td>-72</td><td>100%</td><td>-75</td><td>61%</td><td>-19</td><td>50%</td><td>-20</td><td>60%</td><td>-27</td><td>100%</td><td>-35</td><td>20%</td><td>0</td><td>20%</td><td>-30</td><td>20%</td><td>31</td><td>100%</td><td>33</td><td>50%</td><td>-57</td> </tr>
+ <tr class="even"><td>NJ_23720</td><td>40%</td><td>-13</td><td>42%</td><td>-16</td><td>0%</td><td>-9</td><td>55%</td><td>16</td><td>50%</td><td>4</td><td>66%</td><td>14</td><td>58%</td><td>22</td><td>75%</td><td>21</td><td>0%</td><td>8</td><td>100%</td><td>48</td><td>46%</td><td>-29</td><td>50%</td><td>-25</td><td>40%</td><td>-36</td><td>100%</td><td>-38</td><td>40%</td><td>1</td><td>40%</td><td>-27</td><td>40%</td><td>28</td><td>50%</td><td>-1</td><td>0%</td><td>39</td> </tr>
+ <tr class="odd"><td>NJ_26552</td><td>40%</td><td>-34</td><td>28%</td><td>-51</td><td>0%</td><td>-54</td><td>20%</td><td>-46</td><td>25%</td><td>-36</td><td>0%</td><td>-7</td><td>25%</td><td>-57</td><td>25%</td><td>-50</td><td>50%</td><td>-79</td><td>0%</td><td>-57</td><td>61%</td><td>7</td><td>50%</td><td>59</td><td>80%</td><td>-38</td><td>100%</td><td>-47</td><td>10%</td><td>-53</td><td>20%</td><td>-49</td><td>0%</td><td>-56</td><td>100%</td><td>26</td><td>0%</td><td>-64</td> </tr>
+ <tr class="even"><td>NJ_27368</td><td>40%</td><td>-39</td><td>28%</td><td>-30</td><td>100%</td><td>-63</td><td>50%</td><td>-66</td><td>75%</td><td>-64</td><td>33%</td><td>-68</td><td>41%</td><td>-65</td><td>50%</td><td>-64</td><td>0%</td><td>-68</td><td>100%</td><td>-67</td><td>23%</td><td>-65</td><td>33%</td><td>-66</td><td>0%</td><td>-67</td><td>0%</td><td>-51</td><td>10%</td><td>-51</td><td>20%</td><td>-63</td><td>0%</td><td>-38</td><td>50%</td><td>-58</td><td>0%</td><td>-62</td> </tr>
+ <tr class="odd"><td>NJ_27527</td><td>40%</td><td>-18</td><td>42%</td><td>-27</td><td>50%</td><td>11</td><td>25%</td><td>-15</td><td>100%</td><td>17</td><td>0%</td><td>4</td><td>0%</td><td>-32</td><td>0%</td><td>-28</td><td>0%</td><td>-52</td><td>0%</td><td>-57</td><td>38%</td><td>-40</td><td>33%</td><td>-34</td><td>60%</td><td>-46</td><td>0%</td><td>-42</td><td>40%</td><td>45</td><td>20%</td><td>-37</td><td>60%</td><td>127</td><td>50%</td><td>0</td><td>0%</td><td>-18</td> </tr>
+ <tr class="even"><td>NJ_27656</td><td>20%</td><td>28</td><td>14%</td><td>-16</td><td>50%</td><td>179</td><td>40%</td><td>22</td><td>50%</td><td>-12</td><td>33%</td><td>-25</td><td>33%</td><td>43</td><td>37%</td><td>21</td><td>0%</td><td>-69</td><td>0%</td><td>553</td><td>46%</td><td>-21</td><td>50%</td><td>-30</td><td>60%</td><td>-32</td><td>0%</td><td>32</td><td>20%</td><td>-62</td><td>20%</td><td>-44</td><td>20%</td><td>-79</td><td>50%</td><td>37</td><td>100%</td><td>-22</td> </tr>
+ <tr class="odd"><td>NJ_27707</td><td>60%</td><td>-5</td><td>57%</td><td>2</td><td>0%</td><td>4</td><td>10%</td><td>25</td><td>25%</td><td>15</td><td>33%</td><td>8</td><td>0%</td><td>34</td><td>0%</td><td>9</td><td>0%</td><td>20</td><td>0%</td><td>30</td><td>38%</td><td>-46</td><td>16%</td><td>-37</td><td>40%</td><td>-54</td><td>100%</td><td>-53</td><td>20%</td><td>4</td><td>20%</td><td>-43</td><td>20%</td><td>51</td><td>100%</td><td>-30</td><td>0%</td><td>118</td> </tr>
+ <tr class="even"><td>NJ_27969</td><td>40%</td><td>17</td><td>28%</td><td>34</td><td>50%</td><td>43</td><td>35%</td><td>62</td><td>25%</td><td>33</td><td>66%</td><td>90</td><td>25%</td><td>62</td><td>25%</td><td>72</td><td>0%</td><td>30</td><td>0%</td><td>87</td><td>46%</td><td>28</td><td>50%</td><td>34</td><td>40%</td><td>6</td><td>100%</td><td>21</td><td>40%</td><td>32</td><td>40%</td><td>-4</td><td>40%</td><td>68</td><td>100%</td><td>-34</td><td>50%</td><td>105</td> </tr>
+ <tr class="odd"><td>NJ_27982</td><td>30%</td><td>65</td><td>14%</td><td>80</td><td>50%</td><td>-34</td><td>35%</td><td>1</td><td>25%</td><td>-24</td><td>66%</td><td>140</td><td>33%</td><td>-19</td><td>25%</td><td>-18</td><td>50%</td><td>14</td><td>0%</td><td>-72</td><td>61%</td><td>-32</td><td>50%</td><td>-37</td><td>80%</td><td>-34</td><td>100%</td><td>-48</td><td>20%</td><td>-52</td><td>20%</td><td>-43</td><td>20%</td><td>-61</td><td>50%</td><td>42</td><td>50%</td><td>-52</td> </tr>
+ <tr class="even"><td>NJ_28262</td><td>30%</td><td>-30</td><td>28%</td><td>-33</td><td>0%</td><td>-61</td><td>40%</td><td>-1</td><td>25%</td><td>-1</td><td>66%</td><td>19</td><td>41%</td><td>-1</td><td>37%</td><td>13</td><td>50%</td><td>-25</td><td>0%</td><td>-17</td><td>23%</td><td>-31</td><td>0%</td><td>-28</td><td>40%</td><td>-35</td><td>100%</td><td>-57</td><td>30%</td><td>-5</td><td>60%</td><td>-46</td><td>0%</td><td>36</td><td>50%</td><td>2</td><td>50%</td><td>-42</td> </tr>
+ <tr class="odd"><td>NJ_28292</td><td>60%</td><td>-21</td><td>57%</td><td>-27</td><td>0%</td><td>-5</td><td>35%</td><td>15</td><td>25%</td><td>-3</td><td>66%</td><td>6</td><td>33%</td><td>23</td><td>37%</td><td>28</td><td>0%</td><td>10</td><td>100%</td><td>1</td><td>61%</td><td>-35</td><td>50%</td><td>-29</td><td>80%</td><td>-39</td><td>100%</td><td>-46</td><td>30%</td><td>-37</td><td>60%</td><td>-49</td><td>0%</td><td>-25</td><td>100%</td><td>2</td><td>0%</td><td>92</td> </tr>
+ <tr class="even"><td>NJ_28706</td><td>60%</td><td>-27</td><td>57%</td><td>-28</td><td>100%</td><td>-12</td><td>55%</td><td>7</td><td>50%</td><td>-4</td><td>100%</td><td>-8</td><td>41%</td><td>16</td><td>50%</td><td>-8</td><td>0%</td><td>78</td><td>0%</td><td>61</td><td>53%</td><td>-23</td><td>50%</td><td>-35</td><td>60%</td><td>-13</td><td>100%</td><td>-36</td><td>50%</td><td>9</td><td>60%</td><td>-32</td><td>40%</td><td>50</td><td>50%</td><td>-28</td><td>100%</td><td>-15</td> </tr>
+ <tr class="odd"><td>NJ_28752</td><td>30%</td><td>11</td><td>28%</td><td>24</td><td>50%</td><td>32</td><td>35%</td><td>53</td><td>50%</td><td>99</td><td>66%</td><td>61</td><td>16%</td><td>34</td><td>25%</td><td>53</td><td>0%</td><td>-44</td><td>0%</td><td>26</td><td>30%</td><td>-44</td><td>50%</td><td>-34</td><td>20%</td><td>-53</td><td>0%</td><td>-33</td><td>10%</td><td>-61</td><td>20%</td><td>-61</td><td>0%</td><td>-62</td><td>50%</td><td>-19</td><td>0%</td><td>153</td> </tr>
+ <tr class="even"><td>NJ_31950</td><td>40%</td><td>26</td><td>28%</td><td>31</td><td>50%</td><td>-67</td><td>30%</td><td>-39</td><td>25%</td><td>2</td><td>33%</td><td>-48</td><td>33%</td><td>-48</td><td>37%</td><td>-48</td><td>50%</td><td>-50</td><td>0%</td><td>-68</td><td>53%</td><td>-19</td><td>50%</td><td>-51</td><td>60%</td><td>36</td><td>100%</td><td>-54</td><td>30%</td><td>23</td><td>20%</td><td>-51</td><td>40%</td><td>97</td><td>50%</td><td>51</td><td>50%</td><td>-31</td> </tr>
+ <tr class="odd"><td>NJ_32638</td><td>0%</td><td>-53</td><td>0%</td><td>-49</td><td>0%</td><td>-52</td><td>35%</td><td>-51</td><td>50%</td><td>-54</td><td>33%</td><td>-47</td><td>33%</td><td>-52</td><td>37%</td><td>-50</td><td>50%</td><td>-53</td><td>0%</td><td>-49</td><td>23%</td><td>-58</td><td>50%</td><td>-55</td><td>0%</td><td>-60</td><td>0%</td><td>-57</td><td>20%</td><td>-43</td><td>20%</td><td>-53</td><td>20%</td><td>-33</td><td>0%</td><td>-64</td><td>50%</td><td>-54</td> </tr>
+ <tr class="even"><td>NJ_32639</td><td>30%</td><td>34</td><td>28%</td><td>38</td><td>0%</td><td>38</td><td>35%</td><td>-13</td><td>50%</td><td>12</td><td>66%</td><td>21</td><td>25%</td><td>-26</td><td>25%</td><td>-19</td><td>50%</td><td>-41</td><td>0%</td><td>-66</td><td>23%</td><td>-49</td><td>0%</td><td>-46</td><td>60%</td><td>-48</td><td>0%</td><td>-59</td><td>10%</td><td>59</td><td>0%</td><td>-40</td><td>20%</td><td>158</td><td>50%</td><td>-26</td><td>0%</td><td>-20</td> </tr>
+ <tr class="odd"><td>NJ_32823</td><td>60%</td><td>-9</td><td>57%</td><td>-5</td><td>50%</td><td>23</td><td>30%</td><td>4</td><td>75%</td><td>5</td><td>33%</td><td>134</td><td>16%</td><td>-33</td><td>12%</td><td>-37</td><td>0%</td><td>-44</td><td>100%</td><td>-74</td><td>46%</td><td>0</td><td>16%</td><td>41</td><td>60%</td><td>-28</td><td>100%</td><td>-57</td><td>30%</td><td>-42</td><td>20%</td><td>-46</td><td>40%</td><td>-37</td><td>50%</td><td>-19</td><td>0%</td><td>25</td> </tr>
+ <tr class="even"><td>NJ_33051</td><td>50%</td><td>-23</td><td>42%</td><td>-18</td><td>0%</td><td>12</td><td>20%</td><td>20</td><td>0%</td><td>22</td><td>0%</td><td>25</td><td>33%</td><td>16</td><td>37%</td><td>12</td><td>50%</td><td>-7</td><td>0%</td><td>108</td><td>46%</td><td>-30</td><td>33%</td><td>-31</td><td>60%</td><td>-28</td><td>0%</td><td>-47</td><td>30%</td><td>6</td><td>40%</td><td>-29</td><td>20%</td><td>41</td><td>100%</td><td>-35</td><td>0%</td><td>-2</td> </tr>
+ <tr class="odd"><td>NJ_33203</td><td>60%</td><td>-22</td><td>71%</td><td>-21</td><td>0%</td><td>29</td><td>75%</td><td>7</td><td>75%</td><td>-8</td><td>100%</td><td>-6</td><td>75%</td><td>11</td><td>75%</td><td>12</td><td>50%</td><td>26</td><td>100%</td><td>9</td><td>61%</td><td>-31</td><td>16%</td><td>-28</td><td>100%</td><td>-31</td><td>100%</td><td>-36</td><td>30%</td><td>8</td><td>60%</td><td>-13</td><td>0%</td><td>29</td><td>50%</td><td>-37</td><td>100%</td><td>42</td> </tr>
+ <tr class="even"><td>NJ_34859</td><td>30%</td><td>-20</td><td>14%</td><td>-13</td><td>50%</td><td>16</td><td>40%</td><td>16</td><td>25%</td><td>5</td><td>0%</td><td>19</td><td>50%</td><td>14</td><td>62%</td><td>18</td><td>0%</td><td>12</td><td>0%</td><td>31</td><td>23%</td><td>-21</td><td>16%</td><td>-19</td><td>40%</td><td>-24</td><td>0%</td><td>-30</td><td>10%</td><td>-31</td><td>20%</td><td>-37</td><td>0%</td><td>-26</td><td>100%</td><td>-33</td><td>100%</td><td>3</td> </tr>
+ <tr class="odd"><td>NJ_35809</td><td>30%</td><td>36</td><td>28%</td><td>66</td><td>0%</td><td>-48</td><td>30%</td><td>31</td><td>50%</td><td>-38</td><td>33%</td><td>60</td><td>25%</td><td>55</td><td>25%</td><td>-43</td><td>0%</td><td>541</td><td>0%</td><td>-63</td><td>7%</td><td>-36</td><td>0%</td><td>-3</td><td>20%</td><td>-64</td><td>0%</td><td>-71</td><td>20%</td><td>-50</td><td>20%</td><td>-66</td><td>20%</td><td>-33</td><td>50%</td><td>-36</td><td>50%</td><td>-38</td> </tr>
+ <tr class="even"><td>NJ_36609</td><td>50%</td><td>10</td><td>42%</td><td>31</td><td>50%</td><td>-39</td><td>25%</td><td>-3</td><td>25%</td><td>-3</td><td>0%</td><td>-11</td><td>33%</td><td>2</td><td>50%</td><td>7</td><td>0%</td><td>-43</td><td>0%</td><td>-26</td><td>23%</td><td>-43</td><td>33%</td><td>-39</td><td>0%</td><td>-47</td><td>0%</td><td>-62</td><td>20%</td><td>12</td><td>0%</td><td>-32</td><td>40%</td><td>55</td><td>50%</td><td>-35</td><td>50%</td><td>64</td> </tr>
+ <tr class="odd"><td>NJ_38185</td><td>20%</td><td>118</td><td>0%</td><td>159</td><td>50%</td><td>48</td><td>20%</td><td>59</td><td>0%</td><td>34</td><td>33%</td><td>176</td><td>25%</td><td>37</td><td>25%</td><td>15</td><td>0%</td><td>50</td><td>100%</td><td>7</td><td>38%</td><td>-30</td><td>50%</td><td>-27</td><td>40%</td><td>-39</td><td>0%</td><td>-59</td><td>20%</td><td>13</td><td>40%</td><td>-34</td><td>0%</td><td>59</td><td>50%</td><td>22</td><td>50%</td><td>145</td> </tr>
+ <tr class="even"><td>NJ_38187</td><td>20%</td><td>-43</td><td>28%</td><td>-48</td><td>0%</td><td>194</td><td>35%</td><td>-8</td><td>50%</td><td>-32</td><td>33%</td><td>-40</td><td>33%</td><td>-29</td><td>37%</td><td>-26</td><td>50%</td><td>-20</td><td>0%</td><td>-57</td><td>30%</td><td>-43</td><td>16%</td><td>-37</td><td>60%</td><td>-47</td><td>0%</td><td>-62</td><td>30%</td><td>24</td><td>40%</td><td>57</td><td>20%</td><td>-10</td><td>0%</td><td>-23</td><td>0%</td><td>-16</td> </tr>
+ <tr class="odd"><td>NJ_38266</td><td>20%</td><td>0</td><td>14%</td><td>-4</td><td>0%</td><td>-28</td><td>15%</td><td>-25</td><td>0%</td><td>-13</td><td>33%</td><td>-1</td><td>16%</td><td>-31</td><td>25%</td><td>-47</td><td>0%</td><td>-67</td><td>0%</td><td>-69</td><td>53%</td><td>-60</td><td>50%</td><td>-59</td><td>60%</td><td>-59</td><td>100%</td><td>-63</td><td>20%</td><td>-48</td><td>20%</td><td>-32</td><td>20%</td><td>-63</td><td>50%</td><td>4</td><td>0%</td><td>75</td> </tr>
+ <tr class="even"><td>NJ_38276</td><td>40%</td><td>78</td><td>42%</td><td>30</td><td>50%</td><td>271</td><td>20%</td><td>46</td><td>50%</td><td>290</td><td>33%</td><td>124</td><td>8%</td><td>-47</td><td>12%</td><td>-34</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>15%</td><td>-71</td><td>16%</td><td>-71</td><td>0%</td><td>-71</td><td>100%</td><td>-71</td><td>10%</td><td>-71</td><td>0%</td><td>-71</td><td>20%</td><td>-71</td><td>0%</td><td>-13</td><td>0%</td><td>-71</td> </tr>
+ <tr class="odd"><td>NJ_38412</td><td>30%</td><td>-34</td><td>14%</td><td>-36</td><td>100%</td><td>-13</td><td>55%</td><td>20</td><td>75%</td><td>-2</td><td>66%</td><td>15</td><td>41%</td><td>30</td><td>37%</td><td>41</td><td>50%</td><td>46</td><td>0%</td><td>-66</td><td>23%</td><td>-18</td><td>16%</td><td>-21</td><td>40%</td><td>-7</td><td>0%</td><td>-63</td><td>20%</td><td>-57</td><td>40%</td><td>-49</td><td>0%</td><td>-64</td><td>50%</td><td>-38</td><td>50%</td><td>36</td> </tr>
+ <tr class="even"><td>NJ_38460</td><td>0%</td><td>-71</td><td>0%</td><td>-70</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-70</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td> </tr>
+ <tr class="odd"><td>NJ_38467</td><td>30%</td><td>94</td><td>28%</td><td>117</td><td>0%</td><td>-17</td><td>30%</td><td>86</td><td>25%</td><td>146</td><td>33%</td><td>129</td><td>33%</td><td>67</td><td>50%</td><td>57</td><td>0%</td><td>-36</td><td>0%</td><td>42</td><td>38%</td><td>-34</td><td>50%</td><td>-44</td><td>20%</td><td>-16</td><td>100%</td><td>-35</td><td>20%</td><td>19</td><td>20%</td><td>-44</td><td>20%</td><td>82</td><td>50%</td><td>49</td><td>0%</td><td>184</td> </tr>
+ <tr class="even"><td>NJ_38468</td><td>50%</td><td>0</td><td>42%</td><td>-1</td><td>100%</td><td>66</td><td>50%</td><td>33</td><td>50%</td><td>34</td><td>33%</td><td>38</td><td>50%</td><td>25</td><td>50%</td><td>38</td><td>0%</td><td>-44</td><td>100%</td><td>38</td><td>61%</td><td>-40</td><td>66%</td><td>-38</td><td>60%</td><td>-40</td><td>100%</td><td>-28</td><td>20%</td><td>-26</td><td>40%</td><td>-41</td><td>0%</td><td>-11</td><td>50%</td><td>-3</td><td>50%</td><td>34</td> </tr>
+ <tr class="odd"><td>NJ_38471</td><td>50%</td><td>132</td><td>42%</td><td>117</td><td>100%</td><td>-27</td><td>50%</td><td>17</td><td>50%</td><td>2</td><td>33%</td><td>25</td><td>50%</td><td>23</td><td>37%</td><td>31</td><td>50%</td><td>-22</td><td>100%</td><td>26</td><td>0%</td><td>-69</td><td>0%</td><td>-71</td><td>0%</td><td>-66</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>50%</td><td>274</td><td>50%</td><td>-13</td> </tr>
+ <tr class="even"><td>NJ_39067</td><td>30%</td><td>-28</td><td>28%</td><td>-31</td><td>100%</td><td>39</td><td>40%</td><td>14</td><td>25%</td><td>9</td><td>33%</td><td>28</td><td>41%</td><td>5</td><td>62%</td><td>16</td><td>0%</td><td>-24</td><td>0%</td><td>-54</td><td>30%</td><td>-52</td><td>33%</td><td>-50</td><td>20%</td><td>-53</td><td>100%</td><td>-59</td><td>20%</td><td>-67</td><td>40%</td><td>-52</td><td>0%</td><td>-82</td><td>0%</td><td>-25</td><td>50%</td><td>78</td> </tr>
+ <tr class="odd"><td>NJ_39084</td><td>70%</td><td>-18</td><td>71%</td><td>-10</td><td>50%</td><td>-5</td><td>60%</td><td>-2</td><td>50%</td><td>13</td><td>100%</td><td>-15</td><td>50%</td><td>-5</td><td>50%</td><td>-2</td><td>50%</td><td>-10</td><td>0%</td><td>-21</td><td>61%</td><td>-32</td><td>33%</td><td>-31</td><td>80%</td><td>-37</td><td>100%</td><td>-54</td><td>10%</td><td>-37</td><td>20%</td><td>-45</td><td>0%</td><td>-29</td><td>100%</td><td>-47</td><td>50%</td><td>48</td> </tr>
+ <tr class="even"><td>NJ_39111</td><td>40%</td><td>152</td><td>57%</td><td>219</td><td>50%</td><td>-47</td><td>55%</td><td>-41</td><td>50%</td><td>-46</td><td>33%</td><td>-31</td><td>58%</td><td>-44</td><td>37%</td><td>-41</td><td>100%</td><td>-33</td><td>100%</td><td>-58</td><td>69%</td><td>-54</td><td>50%</td><td>-55</td><td>80%</td><td>-53</td><td>100%</td><td>-34</td><td>60%</td><td>-63</td><td>60%</td><td>-59</td><td>60%</td><td>-67</td><td>0%</td><td>31</td><td>50%</td><td>-74</td> </tr>
+</tbody>
+
+This is the Whole Thing:
+<div id="dvData"><table class="sticky-header" style="position: fixed; top: 0px; width: 2252px; left: 234.733px; visibility: hidden;"><thead><tr><th style="width: 79px;">Verbal Modules 1&amp;2E  - 53 Students</th><th style="width: 47px;">C&amp;S (10) % Correct</th><th style="width: 27px;">C&amp;S (10) Vs Par Avg</th><th style="width: 47px;">Vic (7) % Correct</th><th style="width: 24px;">Vic (7) Vs Par Avg</th><th style="width: 47px;">C/C (2) % Correct</th><th style="width: 24px;">C/C (2) Vs Par Avg</th><th style="width: 47px;">I&amp;I (20) % Correct</th><th style="width: 26px;">I&amp;I (20) Vs Par Avg</th><th style="width: 47px;">Det (4) % Correct</th><th style="width: 24px;">Det (4) Vs Par Avg</th><th style="width: 47px;">MI (3) % Correct</th><th style="width: 24px;">MI (3) Vs Par Avg</th><th style="width: 47px;">Arg (12) % Correct</th><th style="width: 26px;">Arg (12) Vs Par Avg</th><th style="width: 47px;">SC (8) % Correct</th><th style="width: 24px;">SC (8) Vs Par Avg</th><th style="width: 47px;">Conc (2) % Correct</th><th style="width: 32px;">Conc (2) Vs Par Avg</th><th style="width: 47px;">S/W (1) % Correct</th><th style="width: 26px;">S/W (1) Vs Par Avg</th><th style="width: 47px;">SEC (13) % Correct</th><th style="width: 26px;">SEC (13) Vs Par Avg</th><th style="width: 47px;">Punc (6) % Correct</th><th style="width: 32px;">Punc (6) Vs Par Avg</th><th style="width: 47px;">Vs (5) % Correct</th><th style="width: 24px;">Vs (5) Vs Par Avg</th><th style="width: 47px;">PNs (1) % Correct</th><th style="width: 26px;">PNs (1) Vs Par Avg</th><th style="width: 47px;">EoI (10) % Correct</th><th style="width: 26px;">EoI (10) Vs Par Avg</th><th style="width: 47px;">Trs (5) % Correct</th><th style="width: 24px;">Trs (5) Vs Par Avg</th><th style="width: 47px;">Pros (5) % Correct</th><th style="width: 29px;">Pros (5) Vs Par Avg</th><th style="width: 47px;">F/P/S (2) % Correct</th><th style="width: 36px;">F/P/S (2) Vs Par Avg</th><th style="width: 47px;">Ch (2) % Correct</th><th style="width: 24px;">Ch (2) Vs Par Avg</th> </tr></thead></table><table class="sticky-enabled sticky-table">
+ <thead class="tableHeader-processed"><tr><th>Verbal Modules 1&amp;2E  - 53 Students</th><th>C&amp;S (10) % Correct</th><th>C&amp;S (10) Vs Par Avg</th><th>Vic (7) % Correct</th><th>Vic (7) Vs Par Avg</th><th>C/C (2) % Correct</th><th>C/C (2) Vs Par Avg</th><th>I&amp;I (20) % Correct</th><th>I&amp;I (20) Vs Par Avg</th><th>Det (4) % Correct</th><th>Det (4) Vs Par Avg</th><th>MI (3) % Correct</th><th>MI (3) Vs Par Avg</th><th>Arg (12) % Correct</th><th>Arg (12) Vs Par Avg</th><th>SC (8) % Correct</th><th>SC (8) Vs Par Avg</th><th>Conc (2) % Correct</th><th>Conc (2) Vs Par Avg</th><th>S/W (1) % Correct</th><th>S/W (1) Vs Par Avg</th><th>SEC (13) % Correct</th><th>SEC (13) Vs Par Avg</th><th>Punc (6) % Correct</th><th>Punc (6) Vs Par Avg</th><th>Vs (5) % Correct</th><th>Vs (5) Vs Par Avg</th><th>PNs (1) % Correct</th><th>PNs (1) Vs Par Avg</th><th>EoI (10) % Correct</th><th>EoI (10) Vs Par Avg</th><th>Trs (5) % Correct</th><th>Trs (5) Vs Par Avg</th><th>Pros (5) % Correct</th><th>Pros (5) Vs Par Avg</th><th>F/P/S (2) % Correct</th><th>F/P/S (2) Vs Par Avg</th><th>Ch (2) % Correct</th><th>Ch (2) Vs Par Avg</th> </tr></thead>
+<tbody>
+ <tr class="odd"><td>class_average</td><td>43%</td><td>7</td><td>38%</td><td>10</td><td>43%</td><td>17</td><td>39%</td><td>7</td><td>42%</td><td>10</td><td>41%</td><td>20</td><td>37%</td><td>2</td><td>39%</td><td>2</td><td>33%</td><td>-5</td><td>30%</td><td>-1</td><td>39%</td><td>-37</td><td>34%</td><td>-35</td><td>44%</td><td>-39</td><td>60%</td><td>-47</td><td>24%</td><td>-6</td><td>30%</td><td>-43</td><td>18%</td><td>30</td><td>56%</td><td>-8</td><td>37%</td><td>18</td> </tr>
+ <tr class="even"><td>NJ_10600</td><td>40%</td><td>-22</td><td>28%</td><td>-21</td><td>50%</td><td>-15</td><td>80%</td><td>30</td><td>75%</td><td>28</td><td>66%</td><td>41</td><td>91%</td><td>31</td><td>100%</td><td>51</td><td>100%</td><td>-9</td><td>0%</td><td>15</td><td>69%</td><td>-31</td><td>66%</td><td>-43</td><td>80%</td><td>-34</td><td>0%</td><td>-54</td><td>20%</td><td>-23</td><td>40%</td><td>-44</td><td>0%</td><td>-1</td><td>50%</td><td>-21</td><td>100%</td><td>9</td> </tr>
+ <tr class="odd"><td>NJ_10606</td><td>70%</td><td>-36</td><td>57%</td><td>-40</td><td>100%</td><td>-12</td><td>60%</td><td>-18</td><td>75%</td><td>-30</td><td>66%</td><td>-14</td><td>50%</td><td>-16</td><td>50%</td><td>-18</td><td>50%</td><td>-5</td><td>0%</td><td>1</td><td>46%</td><td>-45</td><td>33%</td><td>-42</td><td>60%</td><td>-50</td><td>100%</td><td>-43</td><td>60%</td><td>69</td><td>80%</td><td>-44</td><td>40%</td><td>181</td><td>100%</td><td>-32</td><td>100%</td><td>-1</td> </tr>
+ <tr class="even"><td>NJ_10611</td><td>40%</td><td>-2</td><td>42%</td><td>-21</td><td>50%</td><td>23</td><td>15%</td><td>-26</td><td>25%</td><td>-55</td><td>0%</td><td>3</td><td>16%</td><td>-22</td><td>25%</td><td>-11</td><td>0%</td><td>-31</td><td>0%</td><td>-44</td><td>15%</td><td>-9</td><td>16%</td><td>6</td><td>20%</td><td>-24</td><td>0%</td><td>-60</td><td>40%</td><td>-3</td><td>60%</td><td>-7</td><td>20%</td><td>1</td><td>0%</td><td>14</td><td>0%</td><td>-53</td> </tr>
+ <tr class="odd"><td>NJ_10631</td><td>50%</td><td>8</td><td>42%</td><td>32</td><td>0%</td><td>-52</td><td>40%</td><td>-8</td><td>25%</td><td>-26</td><td>33%</td><td>-8</td><td>50%</td><td>2</td><td>50%</td><td>6</td><td>50%</td><td>3</td><td>0%</td><td>-12</td><td>53%</td><td>-29</td><td>50%</td><td>-31</td><td>40%</td><td>-29</td><td>100%</td><td>-40</td><td>40%</td><td>-23</td><td>60%</td><td>-39</td><td>20%</td><td>-7</td><td>100%</td><td>-47</td><td>50%</td><td>32</td> </tr>
+ <tr class="even"><td>NJ_10898</td><td>80%</td><td>-25</td><td>71%</td><td>-24</td><td>100%</td><td>-18</td><td>80%</td><td>23</td><td>50%</td><td>-15</td><td>100%</td><td>16</td><td>83%</td><td>39</td><td>75%</td><td>32</td><td>100%</td><td>81</td><td>100%</td><td>29</td><td>46%</td><td>-19</td><td>33%</td><td>-25</td><td>40%</td><td>-9</td><td>100%</td><td>-39</td><td>30%</td><td>1</td><td>60%</td><td>-25</td><td>0%</td><td>28</td><td>100%</td><td>-17</td><td>50%</td><td>25</td> </tr>
+ <tr class="odd"><td>NJ_11170</td><td>30%</td><td>-26</td><td>14%</td><td>-15</td><td>50%</td><td>-57</td><td>25%</td><td>-53</td><td>25%</td><td>-56</td><td>0%</td><td>-46</td><td>33%</td><td>-53</td><td>37%</td><td>-46</td><td>50%</td><td>-69</td><td>0%</td><td>-70</td><td>46%</td><td>-51</td><td>50%</td><td>-49</td><td>20%</td><td>-55</td><td>100%</td><td>-60</td><td>10%</td><td>114</td><td>20%</td><td>-62</td><td>0%</td><td>290</td><td>50%</td><td>-51</td><td>50%</td><td>-44</td> </tr>
+ <tr class="even"><td>NJ_12388</td><td>50%</td><td>20</td><td>57%</td><td>35</td><td>50%</td><td>0</td><td>50%</td><td>30</td><td>50%</td><td>84</td><td>66%</td><td>49</td><td>41%</td><td>10</td><td>25%</td><td>20</td><td>100%</td><td>-38</td><td>100%</td><td>-67</td><td>46%</td><td>-53</td><td>50%</td><td>-56</td><td>40%</td><td>-55</td><td>100%</td><td>-66</td><td>10%</td><td>-59</td><td>20%</td><td>-59</td><td>0%</td><td>-59</td><td>50%</td><td>-27</td><td>0%</td><td>138</td> </tr>
+ <tr class="odd"><td>NJ_12390</td><td>40%</td><td>-6</td><td>42%</td><td>-8</td><td>50%</td><td>8</td><td>60%</td><td>72</td><td>50%</td><td>-18</td><td>66%</td><td>-1</td><td>58%</td><td>128</td><td>50%</td><td>107</td><td>50%</td><td>270</td><td>100%</td><td>92</td><td>38%</td><td>-51</td><td>33%</td><td>-57</td><td>60%</td><td>-55</td><td>0%</td><td>-55</td><td>0%</td><td>-72</td><td>0%</td><td>-72</td><td>0%</td><td>-73</td><td>50%</td><td>-22</td><td>100%</td><td>112</td> </tr>
+ <tr class="even"><td>NJ_13152</td><td>60%</td><td>-9</td><td>57%</td><td>-9</td><td>50%</td><td>38</td><td>50%</td><td>1</td><td>50%</td><td>-26</td><td>33%</td><td>2</td><td>50%</td><td>3</td><td>62%</td><td>7</td><td>50%</td><td>-11</td><td>0%</td><td>-32</td><td>30%</td><td>-25</td><td>16%</td><td>-20</td><td>40%</td><td>-35</td><td>100%</td><td>-41</td><td>30%</td><td>-20</td><td>20%</td><td>-12</td><td>40%</td><td>-27</td><td>100%</td><td>-12</td><td>50%</td><td>26</td> </tr>
+ <tr class="odd"><td>NJ_14963</td><td>50%</td><td>0</td><td>57%</td><td>-36</td><td>50%</td><td>352</td><td>25%</td><td>128</td><td>75%</td><td>186</td><td>0%</td><td>77</td><td>16%</td><td>69</td><td>25%</td><td>124</td><td>0%</td><td>-27</td><td>0%</td><td>-39</td><td>53%</td><td>-52</td><td>33%</td><td>-49</td><td>80%</td><td>-56</td><td>100%</td><td>-61</td><td>40%</td><td>70</td><td>40%</td><td>-54</td><td>40%</td><td>193</td><td>0%</td><td>152</td><td>0%</td><td>-67</td> </tr>
+ <tr class="even"><td>NJ_16254</td><td>40%</td><td>72</td><td>42%</td><td>118</td><td>50%</td><td>-39</td><td>30%</td><td>-31</td><td>50%</td><td>-18</td><td>33%</td><td>-45</td><td>25%</td><td>-31</td><td>12%</td><td>-39</td><td>50%</td><td>-68</td><td>0%</td><td>126</td><td>46%</td><td>-38</td><td>50%</td><td>-53</td><td>20%</td><td>-16</td><td>100%</td><td>-63</td><td>30%</td><td>287</td><td>40%</td><td>-61</td><td>20%</td><td>635</td><td>0%</td><td>-32</td><td>50%</td><td>-31</td> </tr>
+ <tr class="odd"><td>NJ_17220</td><td>40%</td><td>-24</td><td>42%</td><td>-18</td><td>100%</td><td>32</td><td>50%</td><td>10</td><td>25%</td><td>17</td><td>33%</td><td>7</td><td>58%</td><td>0</td><td>62%</td><td>4</td><td>50%</td><td>-6</td><td>0%</td><td>-21</td><td>53%</td><td>-25</td><td>50%</td><td>-25</td><td>40%</td><td>-28</td><td>100%</td><td>-27</td><td>30%</td><td>28</td><td>40%</td><td>-40</td><td>20%</td><td>97</td><td>0%</td><td>-31</td><td>100%</td><td>-25</td> </tr>
+ <tr class="even"><td>NJ_17228</td><td>50%</td><td>20</td><td>42%</td><td>23</td><td>50%</td><td>0</td><td>60%</td><td>5</td><td>100%</td><td>-20</td><td>66%</td><td>22</td><td>41%</td><td>11</td><td>50%</td><td>10</td><td>50%</td><td>-29</td><td>0%</td><td>25</td><td>53%</td><td>-31</td><td>50%</td><td>-34</td><td>60%</td><td>-32</td><td>100%</td><td>-38</td><td>20%</td><td>-33</td><td>20%</td><td>-42</td><td>20%</td><td>-23</td><td>100%</td><td>7</td><td>50%</td><td>103</td> </tr>
+ <tr class="odd"><td>NJ_17559</td><td>70%</td><td>-15</td><td>57%</td><td>-8</td><td>50%</td><td>-26</td><td>20%</td><td>-29</td><td>25%</td><td>-13</td><td>33%</td><td>73</td><td>16%</td><td>-56</td><td>12%</td><td>-62</td><td>0%</td><td>-66</td><td>0%</td><td>-73</td><td>15%</td><td>-32</td><td>16%</td><td>-43</td><td>0%</td><td>-25</td><td>100%</td><td>34</td><td>0%</td><td>43</td><td>0%</td><td>-46</td><td>0%</td><td>131</td><td>100%</td><td>-53</td><td>50%</td><td>-22</td> </tr>
+ <tr class="even"><td>NJ_17579</td><td>60%</td><td>9</td><td>42%</td><td>24</td><td>50%</td><td>-34</td><td>30%</td><td>14</td><td>50%</td><td>11</td><td>66%</td><td>-18</td><td>16%</td><td>26</td><td>12%</td><td>39</td><td>0%</td><td>16</td><td>100%</td><td>-21</td><td>23%</td><td>-41</td><td>33%</td><td>-47</td><td>20%</td><td>-38</td><td>0%</td><td>-44</td><td>30%</td><td>-35</td><td>40%</td><td>-31</td><td>20%</td><td>-39</td><td>100%</td><td>-13</td><td>0%</td><td>16</td> </tr>
+ <tr class="odd"><td>NJ_17774</td><td>70%</td><td>56</td><td>71%</td><td>-6</td><td>50%</td><td>348</td><td>70%</td><td>1</td><td>75%</td><td>-3</td><td>66%</td><td>-15</td><td>75%</td><td>-1</td><td>75%</td><td>-1</td><td>100%</td><td>-27</td><td>100%</td><td>21</td><td>76%</td><td>-40</td><td>66%</td><td>-42</td><td>80%</td><td>-42</td><td>100%</td><td>-38</td><td>30%</td><td>-6</td><td>40%</td><td>-51</td><td>20%</td><td>39</td><td>50%</td><td>-1</td><td>0%</td><td>41</td> </tr>
+ <tr class="even"><td>NJ_20360</td><td>20%</td><td>-17</td><td>14%</td><td>-13</td><td>50%</td><td>19</td><td>20%</td><td>33</td><td>0%</td><td>33</td><td>33%</td><td>70</td><td>16%</td><td>20</td><td>12%</td><td>30</td><td>50%</td><td>-56</td><td>0%</td><td>74</td><td>15%</td><td>-45</td><td>0%</td><td>-42</td><td>40%</td><td>-41</td><td>0%</td><td>-70</td><td>10%</td><td>121</td><td>20%</td><td>-51</td><td>0%</td><td>293</td><td>50%</td><td>-22</td><td>0%</td><td>148</td> </tr>
+ <tr class="odd"><td>NJ_20377</td><td>100%</td><td>-27</td><td>100%</td><td>-25</td><td>100%</td><td>26</td><td>75%</td><td>15</td><td>75%</td><td>-22</td><td>66%</td><td>53</td><td>75%</td><td>14</td><td>87%</td><td>2</td><td>100%</td><td>23</td><td>0%</td><td>33</td><td>53%</td><td>-30</td><td>33%</td><td>-26</td><td>80%</td><td>-36</td><td>100%</td><td>-55</td><td>80%</td><td>35</td><td>80%</td><td>-17</td><td>80%</td><td>86</td><td>100%</td><td>-36</td><td>50%</td><td>50</td> </tr>
+ <tr class="even"><td>NJ_21668</td><td>40%</td><td>26</td><td>28%</td><td>52</td><td>0%</td><td>-6</td><td>35%</td><td>56</td><td>50%</td><td>48</td><td>0%</td><td>138</td><td>41%</td><td>43</td><td>50%</td><td>53</td><td>0%</td><td>43</td><td>100%</td><td>2</td><td>15%</td><td>-54</td><td>33%</td><td>-49</td><td>0%</td><td>-57</td><td>0%</td><td>-58</td><td>10%</td><td>-63</td><td>0%</td><td>-67</td><td>20%</td><td>-58</td><td>100%</td><td>-41</td><td>50%</td><td>12</td> </tr>
+ <tr class="odd"><td>NJ_21674</td><td>50%</td><td>84</td><td>42%</td><td>99</td><td>0%</td><td>2</td><td>40%</td><td>-19</td><td>0%</td><td>131</td><td>33%</td><td>-69</td><td>58%</td><td>-51</td><td>50%</td><td>-41</td><td>100%</td><td>-72</td><td>100%</td><td>-75</td><td>61%</td><td>-19</td><td>50%</td><td>-20</td><td>60%</td><td>-27</td><td>100%</td><td>-35</td><td>20%</td><td>0</td><td>20%</td><td>-30</td><td>20%</td><td>31</td><td>100%</td><td>33</td><td>50%</td><td>-57</td> </tr>
+ <tr class="even"><td>NJ_23720</td><td>40%</td><td>-13</td><td>42%</td><td>-16</td><td>0%</td><td>-9</td><td>55%</td><td>16</td><td>50%</td><td>4</td><td>66%</td><td>14</td><td>58%</td><td>22</td><td>75%</td><td>21</td><td>0%</td><td>8</td><td>100%</td><td>48</td><td>46%</td><td>-29</td><td>50%</td><td>-25</td><td>40%</td><td>-36</td><td>100%</td><td>-38</td><td>40%</td><td>1</td><td>40%</td><td>-27</td><td>40%</td><td>28</td><td>50%</td><td>-1</td><td>0%</td><td>39</td> </tr>
+ <tr class="odd"><td>NJ_26552</td><td>40%</td><td>-34</td><td>28%</td><td>-51</td><td>0%</td><td>-54</td><td>20%</td><td>-46</td><td>25%</td><td>-36</td><td>0%</td><td>-7</td><td>25%</td><td>-57</td><td>25%</td><td>-50</td><td>50%</td><td>-79</td><td>0%</td><td>-57</td><td>61%</td><td>7</td><td>50%</td><td>59</td><td>80%</td><td>-38</td><td>100%</td><td>-47</td><td>10%</td><td>-53</td><td>20%</td><td>-49</td><td>0%</td><td>-56</td><td>100%</td><td>26</td><td>0%</td><td>-64</td> </tr>
+ <tr class="even"><td>NJ_27368</td><td>40%</td><td>-39</td><td>28%</td><td>-30</td><td>100%</td><td>-63</td><td>50%</td><td>-66</td><td>75%</td><td>-64</td><td>33%</td><td>-68</td><td>41%</td><td>-65</td><td>50%</td><td>-64</td><td>0%</td><td>-68</td><td>100%</td><td>-67</td><td>23%</td><td>-65</td><td>33%</td><td>-66</td><td>0%</td><td>-67</td><td>0%</td><td>-51</td><td>10%</td><td>-51</td><td>20%</td><td>-63</td><td>0%</td><td>-38</td><td>50%</td><td>-58</td><td>0%</td><td>-62</td> </tr>
+ <tr class="odd"><td>NJ_27527</td><td>40%</td><td>-18</td><td>42%</td><td>-27</td><td>50%</td><td>11</td><td>25%</td><td>-15</td><td>100%</td><td>17</td><td>0%</td><td>4</td><td>0%</td><td>-32</td><td>0%</td><td>-28</td><td>0%</td><td>-52</td><td>0%</td><td>-57</td><td>38%</td><td>-40</td><td>33%</td><td>-34</td><td>60%</td><td>-46</td><td>0%</td><td>-42</td><td>40%</td><td>45</td><td>20%</td><td>-37</td><td>60%</td><td>127</td><td>50%</td><td>0</td><td>0%</td><td>-18</td> </tr>
+ <tr class="even"><td>NJ_27656</td><td>20%</td><td>28</td><td>14%</td><td>-16</td><td>50%</td><td>179</td><td>40%</td><td>22</td><td>50%</td><td>-12</td><td>33%</td><td>-25</td><td>33%</td><td>43</td><td>37%</td><td>21</td><td>0%</td><td>-69</td><td>0%</td><td>553</td><td>46%</td><td>-21</td><td>50%</td><td>-30</td><td>60%</td><td>-32</td><td>0%</td><td>32</td><td>20%</td><td>-62</td><td>20%</td><td>-44</td><td>20%</td><td>-79</td><td>50%</td><td>37</td><td>100%</td><td>-22</td> </tr>
+ <tr class="odd"><td>NJ_27707</td><td>60%</td><td>-5</td><td>57%</td><td>2</td><td>0%</td><td>4</td><td>10%</td><td>25</td><td>25%</td><td>15</td><td>33%</td><td>8</td><td>0%</td><td>34</td><td>0%</td><td>9</td><td>0%</td><td>20</td><td>0%</td><td>30</td><td>38%</td><td>-46</td><td>16%</td><td>-37</td><td>40%</td><td>-54</td><td>100%</td><td>-53</td><td>20%</td><td>4</td><td>20%</td><td>-43</td><td>20%</td><td>51</td><td>100%</td><td>-30</td><td>0%</td><td>118</td> </tr>
+ <tr class="even"><td>NJ_27969</td><td>40%</td><td>17</td><td>28%</td><td>34</td><td>50%</td><td>43</td><td>35%</td><td>62</td><td>25%</td><td>33</td><td>66%</td><td>90</td><td>25%</td><td>62</td><td>25%</td><td>72</td><td>0%</td><td>30</td><td>0%</td><td>87</td><td>46%</td><td>28</td><td>50%</td><td>34</td><td>40%</td><td>6</td><td>100%</td><td>21</td><td>40%</td><td>32</td><td>40%</td><td>-4</td><td>40%</td><td>68</td><td>100%</td><td>-34</td><td>50%</td><td>105</td> </tr>
+ <tr class="odd"><td>NJ_27982</td><td>30%</td><td>65</td><td>14%</td><td>80</td><td>50%</td><td>-34</td><td>35%</td><td>1</td><td>25%</td><td>-24</td><td>66%</td><td>140</td><td>33%</td><td>-19</td><td>25%</td><td>-18</td><td>50%</td><td>14</td><td>0%</td><td>-72</td><td>61%</td><td>-32</td><td>50%</td><td>-37</td><td>80%</td><td>-34</td><td>100%</td><td>-48</td><td>20%</td><td>-52</td><td>20%</td><td>-43</td><td>20%</td><td>-61</td><td>50%</td><td>42</td><td>50%</td><td>-52</td> </tr>
+ <tr class="even"><td>NJ_28262</td><td>30%</td><td>-30</td><td>28%</td><td>-33</td><td>0%</td><td>-61</td><td>40%</td><td>-1</td><td>25%</td><td>-1</td><td>66%</td><td>19</td><td>41%</td><td>-1</td><td>37%</td><td>13</td><td>50%</td><td>-25</td><td>0%</td><td>-17</td><td>23%</td><td>-31</td><td>0%</td><td>-28</td><td>40%</td><td>-35</td><td>100%</td><td>-57</td><td>30%</td><td>-5</td><td>60%</td><td>-46</td><td>0%</td><td>36</td><td>50%</td><td>2</td><td>50%</td><td>-42</td> </tr>
+ <tr class="odd"><td>NJ_28292</td><td>60%</td><td>-21</td><td>57%</td><td>-27</td><td>0%</td><td>-5</td><td>35%</td><td>15</td><td>25%</td><td>-3</td><td>66%</td><td>6</td><td>33%</td><td>23</td><td>37%</td><td>28</td><td>0%</td><td>10</td><td>100%</td><td>1</td><td>61%</td><td>-35</td><td>50%</td><td>-29</td><td>80%</td><td>-39</td><td>100%</td><td>-46</td><td>30%</td><td>-37</td><td>60%</td><td>-49</td><td>0%</td><td>-25</td><td>100%</td><td>2</td><td>0%</td><td>92</td> </tr>
+ <tr class="even"><td>NJ_28706</td><td>60%</td><td>-27</td><td>57%</td><td>-28</td><td>100%</td><td>-12</td><td>55%</td><td>7</td><td>50%</td><td>-4</td><td>100%</td><td>-8</td><td>41%</td><td>16</td><td>50%</td><td>-8</td><td>0%</td><td>78</td><td>0%</td><td>61</td><td>53%</td><td>-23</td><td>50%</td><td>-35</td><td>60%</td><td>-13</td><td>100%</td><td>-36</td><td>50%</td><td>9</td><td>60%</td><td>-32</td><td>40%</td><td>50</td><td>50%</td><td>-28</td><td>100%</td><td>-15</td> </tr>
+ <tr class="odd"><td>NJ_28752</td><td>30%</td><td>11</td><td>28%</td><td>24</td><td>50%</td><td>32</td><td>35%</td><td>53</td><td>50%</td><td>99</td><td>66%</td><td>61</td><td>16%</td><td>34</td><td>25%</td><td>53</td><td>0%</td><td>-44</td><td>0%</td><td>26</td><td>30%</td><td>-44</td><td>50%</td><td>-34</td><td>20%</td><td>-53</td><td>0%</td><td>-33</td><td>10%</td><td>-61</td><td>20%</td><td>-61</td><td>0%</td><td>-62</td><td>50%</td><td>-19</td><td>0%</td><td>153</td> </tr>
+ <tr class="even"><td>NJ_31950</td><td>40%</td><td>26</td><td>28%</td><td>31</td><td>50%</td><td>-67</td><td>30%</td><td>-39</td><td>25%</td><td>2</td><td>33%</td><td>-48</td><td>33%</td><td>-48</td><td>37%</td><td>-48</td><td>50%</td><td>-50</td><td>0%</td><td>-68</td><td>53%</td><td>-19</td><td>50%</td><td>-51</td><td>60%</td><td>36</td><td>100%</td><td>-54</td><td>30%</td><td>23</td><td>20%</td><td>-51</td><td>40%</td><td>97</td><td>50%</td><td>51</td><td>50%</td><td>-31</td> </tr>
+ <tr class="odd"><td>NJ_32638</td><td>0%</td><td>-53</td><td>0%</td><td>-49</td><td>0%</td><td>-52</td><td>35%</td><td>-51</td><td>50%</td><td>-54</td><td>33%</td><td>-47</td><td>33%</td><td>-52</td><td>37%</td><td>-50</td><td>50%</td><td>-53</td><td>0%</td><td>-49</td><td>23%</td><td>-58</td><td>50%</td><td>-55</td><td>0%</td><td>-60</td><td>0%</td><td>-57</td><td>20%</td><td>-43</td><td>20%</td><td>-53</td><td>20%</td><td>-33</td><td>0%</td><td>-64</td><td>50%</td><td>-54</td> </tr>
+ <tr class="even"><td>NJ_32639</td><td>30%</td><td>34</td><td>28%</td><td>38</td><td>0%</td><td>38</td><td>35%</td><td>-13</td><td>50%</td><td>12</td><td>66%</td><td>21</td><td>25%</td><td>-26</td><td>25%</td><td>-19</td><td>50%</td><td>-41</td><td>0%</td><td>-66</td><td>23%</td><td>-49</td><td>0%</td><td>-46</td><td>60%</td><td>-48</td><td>0%</td><td>-59</td><td>10%</td><td>59</td><td>0%</td><td>-40</td><td>20%</td><td>158</td><td>50%</td><td>-26</td><td>0%</td><td>-20</td> </tr>
+ <tr class="odd"><td>NJ_32823</td><td>60%</td><td>-9</td><td>57%</td><td>-5</td><td>50%</td><td>23</td><td>30%</td><td>4</td><td>75%</td><td>5</td><td>33%</td><td>134</td><td>16%</td><td>-33</td><td>12%</td><td>-37</td><td>0%</td><td>-44</td><td>100%</td><td>-74</td><td>46%</td><td>0</td><td>16%</td><td>41</td><td>60%</td><td>-28</td><td>100%</td><td>-57</td><td>30%</td><td>-42</td><td>20%</td><td>-46</td><td>40%</td><td>-37</td><td>50%</td><td>-19</td><td>0%</td><td>25</td> </tr>
+ <tr class="even"><td>NJ_33051</td><td>50%</td><td>-23</td><td>42%</td><td>-18</td><td>0%</td><td>12</td><td>20%</td><td>20</td><td>0%</td><td>22</td><td>0%</td><td>25</td><td>33%</td><td>16</td><td>37%</td><td>12</td><td>50%</td><td>-7</td><td>0%</td><td>108</td><td>46%</td><td>-30</td><td>33%</td><td>-31</td><td>60%</td><td>-28</td><td>0%</td><td>-47</td><td>30%</td><td>6</td><td>40%</td><td>-29</td><td>20%</td><td>41</td><td>100%</td><td>-35</td><td>0%</td><td>-2</td> </tr>
+ <tr class="odd"><td>NJ_33203</td><td>60%</td><td>-22</td><td>71%</td><td>-21</td><td>0%</td><td>29</td><td>75%</td><td>7</td><td>75%</td><td>-8</td><td>100%</td><td>-6</td><td>75%</td><td>11</td><td>75%</td><td>12</td><td>50%</td><td>26</td><td>100%</td><td>9</td><td>61%</td><td>-31</td><td>16%</td><td>-28</td><td>100%</td><td>-31</td><td>100%</td><td>-36</td><td>30%</td><td>8</td><td>60%</td><td>-13</td><td>0%</td><td>29</td><td>50%</td><td>-37</td><td>100%</td><td>42</td> </tr>
+ <tr class="even"><td>NJ_34859</td><td>30%</td><td>-20</td><td>14%</td><td>-13</td><td>50%</td><td>16</td><td>40%</td><td>16</td><td>25%</td><td>5</td><td>0%</td><td>19</td><td>50%</td><td>14</td><td>62%</td><td>18</td><td>0%</td><td>12</td><td>0%</td><td>31</td><td>23%</td><td>-21</td><td>16%</td><td>-19</td><td>40%</td><td>-24</td><td>0%</td><td>-30</td><td>10%</td><td>-31</td><td>20%</td><td>-37</td><td>0%</td><td>-26</td><td>100%</td><td>-33</td><td>100%</td><td>3</td> </tr>
+ <tr class="odd"><td>NJ_35809</td><td>30%</td><td>36</td><td>28%</td><td>66</td><td>0%</td><td>-48</td><td>30%</td><td>31</td><td>50%</td><td>-38</td><td>33%</td><td>60</td><td>25%</td><td>55</td><td>25%</td><td>-43</td><td>0%</td><td>541</td><td>0%</td><td>-63</td><td>7%</td><td>-36</td><td>0%</td><td>-3</td><td>20%</td><td>-64</td><td>0%</td><td>-71</td><td>20%</td><td>-50</td><td>20%</td><td>-66</td><td>20%</td><td>-33</td><td>50%</td><td>-36</td><td>50%</td><td>-38</td> </tr>
+ <tr class="even"><td>NJ_36609</td><td>50%</td><td>10</td><td>42%</td><td>31</td><td>50%</td><td>-39</td><td>25%</td><td>-3</td><td>25%</td><td>-3</td><td>0%</td><td>-11</td><td>33%</td><td>2</td><td>50%</td><td>7</td><td>0%</td><td>-43</td><td>0%</td><td>-26</td><td>23%</td><td>-43</td><td>33%</td><td>-39</td><td>0%</td><td>-47</td><td>0%</td><td>-62</td><td>20%</td><td>12</td><td>0%</td><td>-32</td><td>40%</td><td>55</td><td>50%</td><td>-35</td><td>50%</td><td>64</td> </tr>
+ <tr class="odd"><td>NJ_38185</td><td>20%</td><td>118</td><td>0%</td><td>159</td><td>50%</td><td>48</td><td>20%</td><td>59</td><td>0%</td><td>34</td><td>33%</td><td>176</td><td>25%</td><td>37</td><td>25%</td><td>15</td><td>0%</td><td>50</td><td>100%</td><td>7</td><td>38%</td><td>-30</td><td>50%</td><td>-27</td><td>40%</td><td>-39</td><td>0%</td><td>-59</td><td>20%</td><td>13</td><td>40%</td><td>-34</td><td>0%</td><td>59</td><td>50%</td><td>22</td><td>50%</td><td>145</td> </tr>
+ <tr class="even"><td>NJ_38187</td><td>20%</td><td>-43</td><td>28%</td><td>-48</td><td>0%</td><td>194</td><td>35%</td><td>-8</td><td>50%</td><td>-32</td><td>33%</td><td>-40</td><td>33%</td><td>-29</td><td>37%</td><td>-26</td><td>50%</td><td>-20</td><td>0%</td><td>-57</td><td>30%</td><td>-43</td><td>16%</td><td>-37</td><td>60%</td><td>-47</td><td>0%</td><td>-62</td><td>30%</td><td>24</td><td>40%</td><td>57</td><td>20%</td><td>-10</td><td>0%</td><td>-23</td><td>0%</td><td>-16</td> </tr>
+ <tr class="odd"><td>NJ_38266</td><td>20%</td><td>0</td><td>14%</td><td>-4</td><td>0%</td><td>-28</td><td>15%</td><td>-25</td><td>0%</td><td>-13</td><td>33%</td><td>-1</td><td>16%</td><td>-31</td><td>25%</td><td>-47</td><td>0%</td><td>-67</td><td>0%</td><td>-69</td><td>53%</td><td>-60</td><td>50%</td><td>-59</td><td>60%</td><td>-59</td><td>100%</td><td>-63</td><td>20%</td><td>-48</td><td>20%</td><td>-32</td><td>20%</td><td>-63</td><td>50%</td><td>4</td><td>0%</td><td>75</td> </tr>
+ <tr class="even"><td>NJ_38276</td><td>40%</td><td>78</td><td>42%</td><td>30</td><td>50%</td><td>271</td><td>20%</td><td>46</td><td>50%</td><td>290</td><td>33%</td><td>124</td><td>8%</td><td>-47</td><td>12%</td><td>-34</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>15%</td><td>-71</td><td>16%</td><td>-71</td><td>0%</td><td>-71</td><td>100%</td><td>-71</td><td>10%</td><td>-71</td><td>0%</td><td>-71</td><td>20%</td><td>-71</td><td>0%</td><td>-13</td><td>0%</td><td>-71</td> </tr>
+ <tr class="odd"><td>NJ_38412</td><td>30%</td><td>-34</td><td>14%</td><td>-36</td><td>100%</td><td>-13</td><td>55%</td><td>20</td><td>75%</td><td>-2</td><td>66%</td><td>15</td><td>41%</td><td>30</td><td>37%</td><td>41</td><td>50%</td><td>46</td><td>0%</td><td>-66</td><td>23%</td><td>-18</td><td>16%</td><td>-21</td><td>40%</td><td>-7</td><td>0%</td><td>-63</td><td>20%</td><td>-57</td><td>40%</td><td>-49</td><td>0%</td><td>-64</td><td>50%</td><td>-38</td><td>50%</td><td>36</td> </tr>
+ <tr class="even"><td>NJ_38460</td><td>0%</td><td>-71</td><td>0%</td><td>-70</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-70</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td> </tr>
+ <tr class="odd"><td>NJ_38467</td><td>30%</td><td>94</td><td>28%</td><td>117</td><td>0%</td><td>-17</td><td>30%</td><td>86</td><td>25%</td><td>146</td><td>33%</td><td>129</td><td>33%</td><td>67</td><td>50%</td><td>57</td><td>0%</td><td>-36</td><td>0%</td><td>42</td><td>38%</td><td>-34</td><td>50%</td><td>-44</td><td>20%</td><td>-16</td><td>100%</td><td>-35</td><td>20%</td><td>19</td><td>20%</td><td>-44</td><td>20%</td><td>82</td><td>50%</td><td>49</td><td>0%</td><td>184</td> </tr>
+ <tr class="even"><td>NJ_38468</td><td>50%</td><td>0</td><td>42%</td><td>-1</td><td>100%</td><td>66</td><td>50%</td><td>33</td><td>50%</td><td>34</td><td>33%</td><td>38</td><td>50%</td><td>25</td><td>50%</td><td>38</td><td>0%</td><td>-44</td><td>100%</td><td>38</td><td>61%</td><td>-40</td><td>66%</td><td>-38</td><td>60%</td><td>-40</td><td>100%</td><td>-28</td><td>20%</td><td>-26</td><td>40%</td><td>-41</td><td>0%</td><td>-11</td><td>50%</td><td>-3</td><td>50%</td><td>34</td> </tr>
+ <tr class="odd"><td>NJ_38471</td><td>50%</td><td>132</td><td>42%</td><td>117</td><td>100%</td><td>-27</td><td>50%</td><td>17</td><td>50%</td><td>2</td><td>33%</td><td>25</td><td>50%</td><td>23</td><td>37%</td><td>31</td><td>50%</td><td>-22</td><td>100%</td><td>26</td><td>0%</td><td>-69</td><td>0%</td><td>-71</td><td>0%</td><td>-66</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>0%</td><td>-71</td><td>50%</td><td>274</td><td>50%</td><td>-13</td> </tr>
+ <tr class="even"><td>NJ_39067</td><td>30%</td><td>-28</td><td>28%</td><td>-31</td><td>100%</td><td>39</td><td>40%</td><td>14</td><td>25%</td><td>9</td><td>33%</td><td>28</td><td>41%</td><td>5</td><td>62%</td><td>16</td><td>0%</td><td>-24</td><td>0%</td><td>-54</td><td>30%</td><td>-52</td><td>33%</td><td>-50</td><td>20%</td><td>-53</td><td>100%</td><td>-59</td><td>20%</td><td>-67</td><td>40%</td><td>-52</td><td>0%</td><td>-82</td><td>0%</td><td>-25</td><td>50%</td><td>78</td> </tr>
+ <tr class="odd"><td>NJ_39084</td><td>70%</td><td>-18</td><td>71%</td><td>-10</td><td>50%</td><td>-5</td><td>60%</td><td>-2</td><td>50%</td><td>13</td><td>100%</td><td>-15</td><td>50%</td><td>-5</td><td>50%</td><td>-2</td><td>50%</td><td>-10</td><td>0%</td><td>-21</td><td>61%</td><td>-32</td><td>33%</td><td>-31</td><td>80%</td><td>-37</td><td>100%</td><td>-54</td><td>10%</td><td>-37</td><td>20%</td><td>-45</td><td>0%</td><td>-29</td><td>100%</td><td>-47</td><td>50%</td><td>48</td> </tr>
+ <tr class="even"><td>NJ_39111</td><td>40%</td><td>152</td><td>57%</td><td>219</td><td>50%</td><td>-47</td><td>55%</td><td>-41</td><td>50%</td><td>-46</td><td>33%</td><td>-31</td><td>58%</td><td>-44</td><td>37%</td><td>-41</td><td>100%</td><td>-33</td><td>100%</td><td>-58</td><td>69%</td><td>-54</td><td>50%</td><td>-55</td><td>80%</td><td>-53</td><td>100%</td><td>-34</td><td>60%</td><td>-63</td><td>60%</td><td>-59</td><td>60%</td><td>-67</td><td>0%</td><td>31</td><td>50%</td><td>-74</td> </tr>
+</tbody>
+</table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+All Reports
+EACH of the following (single-click to enter each):
+
+1.	Student Attempted Analysis - Scaled Score
+https://admin.digital.bespokeeducation.com/report/452313/tab/view
+-Start Date
+<div class="form-item" id="edit-report-date-0-wrapper">
+ <label for="edit-report-date-0">Start Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_0" id="edit-report-date-0" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-End Date
+<div class="form-item" id="edit-report-date-1-wrapper">
+ <label for="edit-report-date-1">End Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_1" id="edit-report-date-1" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-Groups
+-Test Collection !!!!!!!!!(inconsistent among reports in the current list, "multiple_report_filer_input" vs. "single_report_filer_input")!!!!!!!!!
+<div class="form-item" id="edit-report-test-collection-wrapper">
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_test_collection" id="edit-report-test-collection" size="60" value="" class="form-text form-autocomplete nodereference-jquery-ac inputfield_single_report_filter_input" autocomplete="OFF">
+</div>
+
+2a.	Post Test Teacher Report By Question Category - SAT Verbal, Modules 1&2E
+https://admin.digital.bespokeeducation.com/report/454496/tab/view
+-Start Date
+<div class="form-item" id="edit-report-date-0-wrapper">
+ <label for="edit-report-date-0">Start Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_0" id="edit-report-date-0" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-End Date
+<div class="form-item" id="edit-report-date-1-wrapper">
+ <label for="edit-report-date-1">End Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_1" id="edit-report-date-1" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-Groups
+-Graduation Year
+<div class="form-item" id="edit-text-fields-wrapper">
+ <label for="edit-text-fields">Graduation Year <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="text_fields" id="edit-text-fields" size="60" value="" class="form-text required">
+</div>
+-Test Collection
+<div class="form-item" id="edit-report-test-collection-wrapper">
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_test_collection" id="edit-report-test-collection" size="60" value="" class="form-text form-autocomplete nodereference-jquery-ac inputfield_multiple_report_filter_input" autocomplete="OFF">
+</div>
+2b.	Post Test Teacher Report By Question Category - SAT Verbal, Modules 1&2H
+https://admin.digital.bespokeeducation.com/report/454497/tab/view
+-Start Date
+-End Date
+-Groups
+-Graduation Year
+-Test Collection
+2c.	Post Test Teacher Report By Question Category - SAT Math, Modules 1&2E
+https://admin.digital.bespokeeducation.com/report/454498/tab/view
+-Start Date
+-End Date
+-Groups
+-Graduation Year
+-Test Collection
+2d.	Post Test Teacher Report By Question Category - SAT Math, Modules 1&2H
+https://admin.digital.bespokeeducation.com/report/454499/tab/view
+-Start Date
+-End Date
+-Groups
+-Graduation Year
+-Test Collection
+
+
+
+3a.	Post Test Teacher Report By Question - Verbal SAT (Module 1, Module 2E And Module 2H)
+https://admin.digital.bespokeeducation.com/report/454897/tab/view
+-Start Date
+-End Date
+-Groups
+-Graduation Year
+-Test Collection
+
+
+3b.	Post Test Teacher Report By Question - Math SAT (Module 1, Module 2E And Module 2H)
+https://admin.digital.bespokeeducation.com/report/454968/tab/view
+-Start Date (14-09-2023)
+<div class="form-item" id="edit-report-date-0-wrapper">
+ <label for="edit-report-date-0">Start Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_0" id="edit-report-date-0" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-End Date
+<div class="form-item" id="edit-report-date-1-wrapper">
+ <label for="edit-report-date-1">End Date <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_date_1" id="edit-report-date-1" size="60" value="" class="form-text required hasDatepicker">
+</div>
+-Groups
+-Graduation Year
+<div class="form-item" id="edit-text-fields-wrapper">
+ <label for="edit-text-fields">Graduation Year <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Type Here" type="text" maxlength="128" name="text_fields" id="edit-text-fields" size="60" value="" class="form-text required">
+</div>
+-Test Collection
+<div class="form-item" id="edit-report-test-collection-wrapper">
+ <input placeholder="Type Here" type="text" maxlength="128" name="report_test_collection" id="edit-report-test-collection" size="60" value="" class="form-text form-autocomplete nodereference-jquery-ac inputfield_multiple_report_filter_input" autocomplete="OFF">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ask them to send me all of their materials
+
+
+
+
+
+
+
+
+
+Are business plans saved to the correct place?
+
+Do Allen Analysis and send to Nicole
+Do 10% additive analysis and send to Nicole/Daniela/Diego
+Spect CT since march
+
+
+
+
+
+Offering:
+32wk curiculum; 80 lessons course
+Bespoke makes curiculum and testing
+Either Bespoke or the school does the teaching
+4 Quarterly assessments (1 in english, 1 in math), on computer
+4 Quizes (1 eng, 1 math): no cpu
+2 practice tests: cpu
+Online platform mimicks SAT
+Keeps track of time spent on each question
+
+
+
+Current Data:
+Uncommon, 3k students took tests.
+2025 took test 1
+2026 took test 2
+2027 took test 3
+Testing is adaptive BY SECTION (M first, then either E or H)
+Eng 100% mult choice
+Math 75% mult choice, 25% fill in
+Sections:
+Eng is 27Q/32Min
+Math is 22Q/35M
+Quizzes are on paper for teacher to grade
+Uncommon is onboard, Harlem program coming online soon
+
+
+INTERNET SITE:
+keystrokes are sometimes different for each report
+run date range 9/14 - 9/16 for start dates
+grad year is always a "-" (you select the year in one of the drop-downs)
+
+
+
+
+
+
+
+
+
+ZOOM CHAT:
+Set of reports to pull:
+Student Attempted Analysis - Scaled Score
+Post Test Teacher Report By Question Category - SAT Verbal, Modules 1&2E
+And the three below it
+Post Test Teacher Report By Question - Verbal SAT (Module 1, Module 2E And Module 2H)
+Post Test Teacher Report By Question - Math SAT (Module 1, Module 2E And Module 2H)
+
+Chip  to  Everyone 4:36 PM
+https://admin.digital.bespokeeducation.com/
+
+Dan Cozzens  to  Everyone 4:53 PM
+DSAT B1-451130
+For all 2025 testers
+DSAT B2-451138 for 2026
+DSAT B3-451287 for 2027
