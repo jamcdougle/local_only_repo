@@ -1,6 +1,6 @@
 import time
 import pandas as pd
-import xlsxwriter
+#import xlsxwriter
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import ActionChains
@@ -10,14 +10,16 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 import random
 import re
+import os
 
 #Maximize the window
 chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
 
 #Chromedriver location
-folder_file = 'C:/Users/mcdouglellc/Downloads/chromedriver'
-driver = webdriver.Chrome(folder_file,options=chrome_options)
+desktop=os.path.join(os.path.expanduser('~'),'Desktop','chromedriver.exe')
+
+driver = webdriver.Chrome(executable_path=desktop,options=chrome_options)
 
 #website to cycle thru pages 1-N.  Filtered on Full-Time and 14-16 & 105-7
 page=1
