@@ -1,11 +1,8 @@
 #from bs4 import BeautifulSoup
 #import pandas as pd
-
 import os
-
 import random
 import re
-
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 #from selenium.webdriver import ActionChains
@@ -20,13 +17,11 @@ chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
 
 #Chromedriver location
-folder_file = 'C:/Users/mcdouglellc/Downloads/chromedriver'
-driver = webdriver.Chrome(folder_file,options=chrome_options)
+folder_file = 'C:/Users/mcdouglellc/Downloads/chromedriver.exe'
+driver = webdriver.Chrome(executable_path=folder_file,options=chrome_options)
 
 desktop=os.path.join(os.path.expanduser('~'),'Desktop','chromedriver-win64','chromedriver.exe')
-
 driver = webdriver.Chrome(executable_path=desktop,options=chrome_options)
-
 #website to cycle thru pages 1-N.  Filtered on Full-Time and 14-16 & 105-7
 page=1
 
