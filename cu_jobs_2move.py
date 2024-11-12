@@ -17,11 +17,11 @@ chrome_options = Options()
 chrome_options.add_argument("--start-maximized")
 
 #Chromedriver location
-folder_file = 'C:/Users/mcdouglellc/Downloads/chromedriver.exe'
+folder_file = 'C:/Users/mcdouglellc/Desktop/chromedriver.exe'
 driver = webdriver.Chrome(executable_path=folder_file,options=chrome_options)
 
-desktop=os.path.join(os.path.expanduser('~'),'Desktop','chromedriver-win64','chromedriver.exe')
-driver = webdriver.Chrome(executable_path=desktop,options=chrome_options)
+#desktop=os.path.join(os.path.expanduser('~'),'Desktop','chromedriver-win64','chromedriver.exe')
+#driver = webdriver.Chrome(executable_path=desktop, options=chrome_options)
 #website to cycle thru pages 1-N.  Filtered on Full-Time and 14-16 & 105-7
 page=1
 
